@@ -1,4 +1,5 @@
 # A simle python script for generating a variety of hashes of functions
+# NOTE: This script must be ran in the directory where the file is located 
 import hashlib
 import sys
 
